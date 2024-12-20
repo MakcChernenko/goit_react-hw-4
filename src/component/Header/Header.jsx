@@ -15,7 +15,7 @@ const Header = ({ onSearch }) => {
           type="text"
           autoComplete="off"
           autoFocus
-          placeholder="Search images and photos"
+          placeholder="Пошук англійською"
         />
         <button type="submit">Search</button>
       </form>
